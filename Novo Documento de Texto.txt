@@ -1,0 +1,4 @@
+alert ("Olá, Mundo! ;D");
+
+var nome = prompt ("Me chamo Carol, qual seu nome?");
+alert ("Seja bem-vinda, " + nome);
